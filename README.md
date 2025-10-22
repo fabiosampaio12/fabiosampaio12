@@ -11,7 +11,7 @@
 
 ### 🌐 Sobre Mim
 
-Olá! Meu nome é Fábio Costa Sampaio, sou um profissional de TI com mais de 15 anos de experiência, apaixonado por transformar dados em conhecimento para impulsionar o crescimento de negócios. Possuo sólida experiência em análise de dados, segurança da informação, governança de TI e inteligência artificial, com foco em LGPD e GDPR. Atuei em diversos projetos estratégicos, liderando equipes e entregando soluções inovadoras. Especialista em metodologias ágeis e com certificações em diversas áreas, como Scrum, Kanban e ISO/IEC 27001. Busco novos desafios para aplicar meus conhecimentos e contribuir para o sucesso de empresas inovadoras.
+Olá! Meu nome é **Fábio Costa Sampaio**, sou um profissional de TI com mais de 15 anos de experiência, apaixonado por transformar dados em conhecimento para impulsionar o crescimento de negócios. Possuo sólida experiência em **análise de dados, segurança da informação, governança de TI e inteligência artificial**, com foco em LGPD e GDPR. Atuei em diversos projetos estratégicos, liderando equipes e entregando soluções inovadoras.**Especialista em metodologias ágeis e com certificações em diversas áreas, como Scrum, Kanban e ISO/IEC 27001**. Busco novos desafios para aplicar meus conhecimentos e contribuir para o sucesso de empresas inovadoras.
 
 - 🌱 Atualmente trabalho na área de dados e estou buscando novos conhecimentos na área de Inteligência Artificial (IA).
 - 💡 Busco oportunidades na área de inteligência de dados.
