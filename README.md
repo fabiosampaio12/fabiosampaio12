@@ -32,6 +32,17 @@ Aqui estão as principais tecnologias e ferramentas que utilizo:
     <img src="https://img.shields.io/badge/ISO_27001-certificado-blue?style=for-the-badge" alt="ISO 27001" />
     <img src="https://img.shields.io/badge/Metodologias_%C3%81geis-yellowgreen?style=for-the-badge" alt="Metodologias Ágeis" />
     <img src="https://img.shields.io/badge/MicroStrategy-008CFF?style=for-the-badge&logo=microstrategy&logoColor=white" alt="Microstrategy" />
+    <img src="https://img.shields.io/badge/Kanban-0078D7?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/DAX-004C8C?style=for-the-badge&logo=microsoft-powerbi&logoColor=white" alt="DAX" />
+    <img src="https://img.shields.io/badge/SQL-247BA0?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/PMBOK-005A9C?style=for-the-badge" alt="PMBOK" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+    <img src="https://img.shields.io/badge/Databricks-F28000?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="Google BigQuery" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
     </p>
 
 </div>
