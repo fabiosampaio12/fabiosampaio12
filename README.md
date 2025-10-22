@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>Fábio Costa Sampaio</h1>
-    <h2>Analista de Dados]</h2>
+    <h2>Analista de Dados | Governança de Dados | Gerenciamento de Projetos  | Inteligência Artificial</h2>
 </div>
 
 ---
@@ -34,15 +34,4 @@ Aqui estão as principais tecnologias e ferramentas que utilizo:
     <img src="https://img.shields.io/badge/MicroStrategy-008CFF?style=for-the-badge&logo=microstrategy&logoColor=white" alt="Microstrategy" />
     </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-Você pode usar ferramentas como o **GitHub Readme Stats** para gerar cards dinâmicos com suas estatísticas e linguagens mais usadas.
-
-```markdown
-<div align="center">
-    <img src="[https://github-readme-stats.vercel.app/api?username=fabiosampaio12&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=fabiosampaio12&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)" alt="Fábio Costa Sampaio's GitHub Stats" />
-    <br/>
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosampaio12&layout=compact&theme=vue-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosampaio12&layout=compact&theme=vue-dark)" alt="Top Languages" />
 </div>
