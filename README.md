@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
+    <img src="URL_DA_SUA_IMAGEM_DE_BANNER" alt="Banner de Perfil" /> 
+</div>
 
-<!--
-**fabiosampaio12/fabiosampaio12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h1>Fábio Costa Sampaio</h1>
+    <h2>Analista de Dados]</h2>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Sobre Mim
+
+Olá! Meu nome é Fábio Costa Sampaio, sou um profissional de TI com mais de 15 anos de experiência, apaixonado por transformar dados em conhecimento para impulsionar o crescimento de negócios. Possuo sólida experiência em análise de dados, segurança da informação, governança de TI e inteligência artificial, com foco em LGPD e GDPR. Atuei em diversos projetos estratégicos, liderando equipes e entregando soluções inovadoras. Especialista em metodologias ágeis e com certificações em diversas áreas, como Scrum, Kanban e ISO/IEC 27001. Busco novos desafios para aplicar meus conhecimentos e contribuir para o sucesso de empresas inovadoras.
+
+- 🌱 Atualmente trabalho na área de dados e estou buscando novos conhecimentos na área de Inteligência Artificial (IA).
+- 💡 Busco oportunidades na área de inteligência de dados.
+- 🤝 Estou aberto a colaborações em projetos.
+- 📍 Localizado em Brasília/DF - Brasil
+- ✉️ Entre em contato: fabiocosta12@gmail.com
+
+---
+
+### 💻 Minha Stack de Tecnologia
+
+Aqui estão as principais tecnologias e ferramentas que utilizo:
+
+<p align="center">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/DAMA-0078D7?style=for-the-badge&logo=datadog&logoColor=white" alt="DAMA" />
+    <img src="https://img.shields.io/badge/ISO_27001-certificado-blue?style=for-the-badge" alt="ISO 27001" />
+    <img src="https://img.shields.io/badge/Metodologias_%C3%81geis-yellowgreen?style=for-the-badge" alt="Metodologias Ágeis" />
+    <img src="https://img.shields.io/badge/MicroStrategy-008CFF?style=for-the-badge&logo=microstrategy&logoColor=white" alt="Microstrategy" />
+    </p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+Você pode usar ferramentas como o **GitHub Readme Stats** para gerar cards dinâmicos com suas estatísticas e linguagens mais usadas.
+
+```markdown
+<div align="center">
+    <img src="[https://github-readme-stats.vercel.app/api?username=fabiosampaio12&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=fabiosampaio12&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)" alt="Fábio Costa Sampaio's GitHub Stats" />
+    <br/>
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosampaio12&layout=compact&theme=vue-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosampaio12&layout=compact&theme=vue-dark)" alt="Top Languages" />
+</div>
