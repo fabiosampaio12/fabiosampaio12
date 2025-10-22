@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/file/d/1wc1HUm-6PSDXIpk8eVqKuPIacoxQy6kP/view?usp=drive_link" alt="Banner de Perfil" /> 
+    <img src="banner.png alt="Banner de Perfil" /> 
 </div>
 
 <div align="center">
