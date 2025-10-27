@@ -18,6 +18,7 @@ Olá! Meu nome é **Fábio Costa Sampaio**, sou um profissional de TI com mais d
 - 🤝 Estou aberto a colaborações em projetos.
 - 📍 Localizado em Brasília/DF - Brasil
 - ✉️ Entre em contato: fabiocosta12@gmail.com
+- 🔗 Portfólio: [Meu Portfólio de Projetos](https://fabiosampaio12.github.io/index.html)
 
 ---
 
