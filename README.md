@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>Fábio Costa Sampaio</h1>
-    <h2>Analista de Dados | Governança de Dados | Gerenciamento de Projetos  | Inteligência Artificial</h2>
+    <h2>Analista de Dados | Governança de Dados | Gerenciamento de Projetos  | Scrum Master | Inteligência Artificial</h2>
 </div>
 
 ---
@@ -27,6 +27,7 @@ Olá! Meu nome é **Fábio Costa Sampaio**, sou um profissional de TI com mais d
 Aqui estão as principais tecnologias e ferramentas que utilizo:
 
 <p align="center">
+    <img src="https://img.shields.io/badge/PSM_I-02488D?style=for-the-badge&logo=scrum.org&logoColor=white" alt="PSM I" />
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/DAMA-0078D7?style=for-the-badge&logo=datadog&logoColor=white" alt="DAMA" />
